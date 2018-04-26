@@ -48,7 +48,7 @@ The linux daemon is compiled for Ubuntu 14.04 and is not compatible with other v
 The error message "error while loading shared libraries: libboost_system.so.1.54.0: cannot open shared object file" is triggered when you start the daemon in an unsupported version of Ubuntu server.
 
 You can fix the error by compiling a new daemon. 
-Compiling instructions are available here -> 
+Compiling instructions are available here -> https://github.com/OidLife/Compiling
 
 # How do I start my wallet on Ubuntu desktop?
 You need to install the following dependencies to start your wallet in Ubuntu desktop.
@@ -71,6 +71,7 @@ You can fix this using the following instructions.
 3) You can now start the wallet (exe).
 
 Thank you,
+
 OID Team
 
 
