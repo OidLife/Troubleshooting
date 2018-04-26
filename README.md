@@ -18,8 +18,8 @@ You can fix this using the following instructions.
 Important: replace "examplecoin" with the name of your blockchain.
 
 1) Close your wallet. 
-2) Make a backup of the folder "`%appdata%\examplecoin`".
-3) Remove the folder "`%appdata%\examplecoin`".
+2) Make a backup of the folder "`%appdata%\Opioid`".
+3) Remove the folder "`%appdata%\Opioid`".
 4) Start your wallet.
 
 # How do I fix the error "500 internal Server Error" in minerd?
