@@ -8,14 +8,14 @@ The error message "x hours behind" or "out-of-sync" can be triggered when the la
 
 E.G. Blocktime : 10 minutes, last block found 30 minutes ago.
 
-You can fix the error by mining your first or next block.
+You can fix the error by mining.
 
 # How do I fix the error "Incorrect or no genesis block found"?
 The warning "Incorrect or no genesis block found. Wrong datadir for network" is caused by a different blockchain with the same name.
 
 You can fix this using the following instructions.
 
-Important: replace "examplecoin" with the name of your blockchain.
+Important: replace any occurence of "Opioid" with the correct name of the OID blockchain. Currently it should be labeled "Opioid" not "Opioidcoin" etc.  
 
 1) Close your wallet. 
 2) Make a backup of the folder "`%appdata%\Opioid`".
